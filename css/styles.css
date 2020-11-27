@@ -47,7 +47,7 @@ h1 {
   /********* Region positioning text align margins and style **********/
   .chicken{
     background-color:#009999;         
-    color: white;
+    color: black;
     }
    .beef{
     background-color:#3333ff;
@@ -55,7 +55,7 @@ h1 {
    }
    .sushi{
     background-color:#993366;
-    color: white;   
+    color: black;   
    }
 /********** Large devices only **********/
 @media (min-width: 992px) {  
